@@ -4,4 +4,4 @@ This is the main repository for the Jupyter notebooks used in Math 032 (Probabil
 
 Organization:
 * /demos/ contains in-class demonstrations or other workbooks that could be helpful for experiments.
-* /homeworks/ contains the files assigned as part of otter-graded weekly homeworks.
+* /assignments/ contains the files assigned as part of otter-graded weekly homeworks.
